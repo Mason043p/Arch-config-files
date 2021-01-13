@@ -12,6 +12,6 @@ alt + y      opens Steam
 
 ## Workspace Icons
 If you wish to render the icons shown in my workspaces, you will need to install the font-awesome TTF
-If your on a arch based distribution the package is provided in the User repository here 
+If your on a arch based distribution the package is provided in the commuunity repository here 
 https://archlinux.org/packages/community/any/ttf-font-awesome/
 
