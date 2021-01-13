@@ -1,3 +1,3 @@
-# Arch-config-files
+# Desktop Image
 
 ![](images/github-example-upload.png)
