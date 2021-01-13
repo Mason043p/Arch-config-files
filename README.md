@@ -3,11 +3,11 @@
 
 
 ## Keybindings
-alt + enter  Opens Terminator
-alt + p      Opens Firefox
-alt + o      Opens Discord
-alt + i      Opens Spotify
-alt + u      Opens Visual Studio
+alt + enter  Opens Terminator <br/>
+alt + p      Opens Firefox    
+alt + o      Opens Discord    
+alt + i      Opens Spotify    
+alt + u      Opens Visual Studio  
 alt + y      Opens Steam
 
 ## Workspace Icons
