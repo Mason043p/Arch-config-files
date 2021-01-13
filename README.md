@@ -3,12 +3,12 @@
 
 
 ## Keybindings
-alt + enter  Opens Terminator <br/>
-alt + p      Opens Firefox    
-alt + o      Opens Discord    
-alt + i      Opens Spotify    
-alt + u      Opens Visual Studio  
-alt + y      Opens Steam
+alt + enter  opens Terminator 
+alt + p      opens Firefox    
+alt + o      opens Discord    
+alt + i      opens Spotify    
+alt + u      opens Visual Studio  
+alt + y      opens Steam
 
 ## Workspace Icons
 If you wish to render the icons shown in my workspaces, you will need to install the font-awesome TTF
