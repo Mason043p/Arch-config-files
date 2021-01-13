@@ -1,3 +1,3 @@
 # Arch-config-files
 
-![](images/blob/main/github-example-upload.png)
+![](images/github-example-upload.png)
