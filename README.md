@@ -1,5 +1,6 @@
 ## Desktop Image
-![github-example-upload](https://user-images.githubusercontent.com/74705524/104406391-2e15c500-552d-11eb-9f36-792a56aee9ad.png)
+![github-upload](https://user-images.githubusercontent.com/74705524/104528243-b8653400-55d4-11eb-9725-5231290b6426.png)
+
 
 
 ## Keybindings
