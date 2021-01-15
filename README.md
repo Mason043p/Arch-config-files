@@ -10,4 +10,5 @@ Be sure to change the path for my feh configuration or remove it, also be sure t
   If you wish to render the icons shown in my workspaces, you will need to install the font-awesome TTF
 If your on a arch based distribution the package is provided in the community repository here 
 https://archlinux.org/packages/community/any/ttf-font-awesome/
+Also be sure to install the Ubuntu ttf fonts from the community repo if you wish to render fonts for my workspaces https://archlinux.org/packages/community/any/ttf-ubuntu-font-family/
 
