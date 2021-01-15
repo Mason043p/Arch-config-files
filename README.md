@@ -1,5 +1,8 @@
-## Desktop Image
-![github-upload](https://user-images.githubusercontent.com/74705524/104528243-b8653400-55d4-11eb-9725-5231290b6426.png)
+## Primary Monitor
+![primary-reddit-upload](https://user-images.githubusercontent.com/74705524/104677232-0fdbd080-56b7-11eb-8e80-b77ab982fffd.png)
+## Secondary Monitor
+![secondary-reddit-upload](https://user-images.githubusercontent.com/74705524/104677303-300b8f80-56b7-11eb-9b00-ca8839650c65.png)
+
 
 I reference 2 bars in my i3 configuration file, one for my primary monitor (with i3status), and one for my secondary montior (without i3status)
   be sure to change the xrandr configuration in my  i3 configuration file. As well as the bar output to correspond with your monitors,
