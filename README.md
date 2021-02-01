@@ -1,8 +1,9 @@
 ## Desktop Screenshots
 Primary Monitor
-![primary-reddit-upload](https://user-images.githubusercontent.com/74705524/104677232-0fdbd080-56b7-11eb-8e80-b77ab982fffd.png)
+![unixscreenshot2](https://user-images.githubusercontent.com/74705524/106403418-a53bcc00-63fc-11eb-8297-48f2319a235d.png)
+
 Secondary Monitor
-![secondary-reddit-upload](https://user-images.githubusercontent.com/74705524/104677303-300b8f80-56b7-11eb-9b00-ca8839650c65.png)
+![unixscreenshot](https://user-images.githubusercontent.com/74705524/106403392-76bdf100-63fc-11eb-9386-aac0942f0219.png)
 
 
 ## Extra Information
